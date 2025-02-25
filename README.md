@@ -125,12 +125,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-For more information on building full-stack dApps, consider exploring the following resources:
-
-- [Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat](https://github.com/asfandyar-malik/React-Dapp)
-- [Creating Your First Full-Stack dApp with Solidity, Hardhat, and React](https://barrettk.hashnode.dev/creating-your-first-full-stack-dapp-with-solidity-hardhat-and-react)
-
-These resources provide comprehensive guides and examples to enhance your understanding and development of decentralized applications. 
